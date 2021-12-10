@@ -1,4 +1,4 @@
-# Koa Starter Kit (General)
+# audit-log-lambda-sqs
 
 ### Clone and prepare kit
 
